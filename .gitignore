@@ -1,0 +1,13 @@
+images/
+masks/
+outputs/
+logs/
+Forest Segmented/
+
+*.keras
+*.h5
+*.png
+*.jpg
+*.zip
+
+tempCodeRunnerFile.py
